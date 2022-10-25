@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damiany</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DamianyRosales&label=Profile%20views&color=0e75b6&style=flat" alt="damianyrosales" /> </p>
 <h3 align="center">A Backend developer, DevOps enthusiast and Data Science student from México whose main purpose in life is to improve it and help my community. I constantly try to improve my skills and I perform pretty well under pressure.</h3>
 
 - 🔭 I’m currently working on [a backend for a mobile app for RE/MAX](https://www.figma.com/file/xn2R9K9lu5Rc065qq3s9S0/ReMax-App?node-id=0%3A1)
