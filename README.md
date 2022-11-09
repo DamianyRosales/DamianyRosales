@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python <django>, Linux, AWS**
 
 #### Contact Information:
-- Email: `damianyrosales <at> gmail.com`
+- Email: `damianyrosales@gmail.com`
 - Linkedin: `www.linkedin.com/in/damiany-rosales/`
 
 - ⚡ Fun fact **I really like history and chess.**
